@@ -1,3 +1,4 @@
 begin line
 
 dummy one
+dummy two

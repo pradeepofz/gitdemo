@@ -2,3 +2,4 @@ begin line
 dummy between
 dummy one
 dummy two
+dummy five
